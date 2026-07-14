@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Animated typing banner -->
 <a href="https://git.io/typing-svg">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=140&lines=Hi+there%2C+I'm+Sovith+Kumar+Singh;Data+Scientist+%7C+ML+Engineer;Building+Production-Grade+ML+Systems;IIT+Delhi+%7C+Math+%2B+Machine+Learning](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=140&lines=Hi+there%2C+I'm+Sovith+Kumar+Singh;Data+Scientist+%7C+ML+Engineer;Building+Production-Grade+ML+Systems;IIT+Delhi+%7C+Math+%2B+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=140&lines=Hi+there%2C+I'm+Sovith+Kumar+Singh;Data+Scientist+%7C+ML+Engineer;Building+Production-Grade+ML+Systems;IIT+Delhi+%7C+Math+%2B+Machine+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
