@@ -46,7 +46,7 @@ I'm a math-trained data scientist who moves fluidly between the theory of ML (pa
 
 <br/>
 
-## 💼 Featured Projects
+## 📦 Popular Repositories
 
 <table>
 <tr>
@@ -75,6 +75,57 @@ I'm a math-trained data scientist who moves fluidly between the theory of ML (pa
 - Focus areas: grounded retrieval, agent state management
 
 **Stack:** `LangGraph` `RAG` `LLM Orchestration` `Python`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 MLflow Mini Project & Tutorial
+**Experiment tracking & model registry in practice**
+
+- [`mlflow-mini-project`](https://github.com/Sovith07/mlflow-mini-project)
+- [`mlflow_tutorial`](https://github.com/Sovith07/mlflow_tutorial)
+- Hands-on tracking of experiments, params, and metrics with **MLflow**
+
+**Stack:** `MLflow` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Bayesian Optimization Tutorial
+**Hyperparameter tuning beyond grid/random search**
+
+- [`Bayesian_optimization_tutorial`](https://github.com/Sovith07/Bayesian_optimization_tutorial)
+- Walkthrough of surrogate-model-driven hyperparameter search
+
+**Stack:** `Python` `scikit-learn`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Regular Expressions Tutorial
+**Pattern matching & text preprocessing fundamentals**
+
+- [`Regular_expressions_tutorial`](https://github.com/Sovith07/Regular_expressions_tutorial)
+- Core regex patterns for data cleaning and NLP preprocessing
+
+**Stack:** `Python` `Jupyter`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ Imbalanced Data Techniques Tutorial
+**Handling class imbalance in classification problems**
+
+- [`Imbalace_data_techniques_tutorial`](https://github.com/Sovith07/Imbalace_data_techniques_tutorial)
+- Resampling, class weighting, and evaluation-metric strategies for skewed datasets
+
+**Stack:** `scikit-learn` `imbalanced-learn` `Pandas`
 
 </td>
 </tr>
